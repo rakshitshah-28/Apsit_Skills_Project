@@ -1,5 +1,6 @@
 # Apsit_Skills_Project
 This repository contains Apsit Skills Internship Python project files.
+Internship Duration - 2 months.
 
 Question Statement : Solve Maths using Python(Done)
 I. Create a basic calculator(accept from the user) which will include(main opt)
